@@ -11,4 +11,10 @@ This is a basic implementation of a TCP server and client using Python's `socket
 ### 1. Start the server:
 ```bash
 python3 server.py
+```
+
+### 1. Run the client:
+```bash
+python3 client.py
+
 
