@@ -13,7 +13,7 @@ This is a basic implementation of a TCP server and client using Python's `socket
 python3 server.py
 ```
 
-### 1. Run the client:
+### 2. Run the client:
 ```bash
 python3 client.py
 
